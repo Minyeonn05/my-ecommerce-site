@@ -1,11 +1,11 @@
 # my-ecommerce-site
-web-technology
+web-tecnology
 
-# Workout Template 
+# Workout Template
 # Description
-- One page Layout
+- One Page Layout
 - Responsive Web Design
-- Html 5 
-- CSS 3 
+- HTML5
+- CSS 3
 - Bootstrap 4
 - jQuery 3
